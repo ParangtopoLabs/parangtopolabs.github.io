@@ -1,2 +1,1 @@
-# parangtopolabs.github.io
-Parangtopo Labs
+https://parangtopolabs.github.io
